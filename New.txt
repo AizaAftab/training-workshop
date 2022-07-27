@@ -1,0 +1,2 @@
+Import numpy as np.
+my name is aiza aftab.
