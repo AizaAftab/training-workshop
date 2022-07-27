@@ -1,0 +1,6 @@
+
+my name is aiza aftab.
+
+
+my qualification is ms
+Import pandas as pd.
